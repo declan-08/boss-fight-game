@@ -1,2 +1,2 @@
-# boss-fight-game
+# primordial
 A fast-paced 2D boss fight game built using Python's pygame library.
