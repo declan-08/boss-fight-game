@@ -15,4 +15,4 @@ A fast-paced 2D boss fight game built using Python's pygame library.
 
 | Boss's Exhaustion |
 | :---: |
-|![Exhaustion](assets/exhaustion.png) |
+| |
