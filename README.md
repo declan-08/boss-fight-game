@@ -13,6 +13,10 @@ A fast-paced 2D boss fight game built using Python's pygame library.
 | :---: |
 |![Menu](assets/menuscreenshot.png)|
 
+| Altar |
+| :---: |
+|![Altar](assets/altar.gif)|
+
 | Boss's Exhaustion |
 | :---: |
 |![Exhaustion](assets/exhaustion.png)|
